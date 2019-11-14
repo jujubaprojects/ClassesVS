@@ -1,0 +1,10 @@
+C:\Users\Jujuba\Documents\Visual Studio 2010\Projects\ClassesJujuba\Auxiliar\bin\Debug\Auxiliar.dll
+C:\Users\Jujuba\Documents\Visual Studio 2010\Projects\ClassesJujuba\Auxiliar\bin\Debug\Auxiliar.pdb
+C:\Users\Jujuba\Documents\Visual Studio 2010\Projects\ClassesJujuba\Auxiliar\obj\Debug\Auxiliar.dll
+C:\Users\Jujuba\Documents\Visual Studio 2010\Projects\ClassesJujuba\Auxiliar\obj\Debug\Auxiliar.pdb
+C:\Users\Jujuba\source\repos\ClassesJujuba\Auxiliar\bin\Debug\Auxiliar.dll
+C:\Users\Jujuba\source\repos\ClassesJujuba\Auxiliar\bin\Debug\Auxiliar.pdb
+C:\Users\Jujuba\source\repos\ClassesJujuba\Auxiliar\obj\Debug\Auxiliar.csproj.CoreCompileInputs.cache
+C:\Users\Jujuba\source\repos\ClassesJujuba\Auxiliar\obj\Debug\Auxiliar.dll
+C:\Users\Jujuba\source\repos\ClassesJujuba\Auxiliar\obj\Debug\Auxiliar.pdb
+C:\Users\Jujuba\source\repos\ClassesJujuba\Auxiliar\obj\Debug\Auxiliar.csprojAssemblyReference.cache
