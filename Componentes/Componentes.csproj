@@ -1,0 +1,208 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{328CF372-1AE3-461F-BB0B-27F2F7F9EB10}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Componentes</RootNamespace>
+    <AssemblyName>Componentes</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=6.9.5.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Teste03">
+      <HintPath>..\..\ClassesJujubaJCS\Teste03\bin\Debug\Teste03.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ButtonJCS.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ButtonJCS.Designer.cs">
+      <DependentUpon>ButtonJCS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CheckBoxJCS.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CheckBoxJCS.Designer.cs">
+      <DependentUpon>CheckBoxJCS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ComboBoxJCS.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ComboBoxJCS.Designer.cs">
+      <DependentUpon>ComboBoxJCS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataGridViewJCS.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DataGridViewJCS.designer.cs">
+      <DependentUpon>DataGridViewJCS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="dateTimePickerJCS.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="dateTimePickerJCS.Designer.cs">
+      <DependentUpon>dateTimePickerJCS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormJCS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormJCS.Designer.cs">
+      <DependentUpon>FormJCS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBusca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBusca.Designer.cs">
+      <DependentUpon>frmBusca.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCadastroJCS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCadastroJCS.Designer.cs">
+      <DependentUpon>frmCadastroJCS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmInputBoxJCS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmInputBoxJCS.Designer.cs">
+      <DependentUpon>frmInputBoxJCS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GroupBoxJCS.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="GroupBoxJCS.Designer.cs">
+      <DependentUpon>GroupBoxJCS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LabelJCS.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="LabelJCS.designer.cs">
+      <DependentUpon>LabelJCS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MaskedTextBoxJCS.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="MaskedTextBoxJCS.Designer.cs">
+      <DependentUpon>MaskedTextBoxJCS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="RadioButtonJCScs.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RadioButtonJCScs.Designer.cs">
+      <DependentUpon>RadioButtonJCScs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TextBoxJCS.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="TextBoxJCS.Designer.cs">
+      <DependentUpon>TextBoxJCS.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\dal\dal.csproj">
+      <Project>{ECFC026E-62F2-4A0B-A780-F3F18458CF2B}</Project>
+      <Name>dal</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="FormJCS.resx">
+      <DependentUpon>FormJCS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBusca.resx">
+      <DependentUpon>frmBusca.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCadastroJCS.resx">
+      <DependentUpon>frmCadastroJCS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmInputBoxJCS.resx">
+      <DependentUpon>frmInputBoxJCS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search_Icon_16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save_color.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\trash.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_left.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\page_help.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\help.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

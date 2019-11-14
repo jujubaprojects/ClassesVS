@@ -1,0 +1,61 @@
+C:\Users\Jujuba\Documents\Visual Studio 2010\Projects\ClassesJujuba\WindowsForm\bin\Debug\dal.dll
+C:\Users\Jujuba\Documents\Visual Studio 2010\Projects\ClassesJujuba\WindowsForm\bin\Debug\Teste03.dll
+C:\Users\Jujuba\Documents\Visual Studio 2010\Projects\ClassesJujuba\WindowsForm\bin\Debug\dal.pdb
+C:\Users\Jujuba\Documents\Visual Studio 2010\Projects\ClassesJujuba\WindowsForm\bin\Debug\Teste03.pdb
+C:\Users\Jujuba\Documents\Visual Studio 2010\Projects\ClassesJujuba\WindowsForm\obj\Debug\Componentes.csproj.GenerateResource.Cache
+C:\Users\Jujuba\Documents\Visual Studio 2010\Projects\ClassesJujuba\WindowsForm\obj\Debug\Componentes.FormJCS.resources
+C:\Users\Jujuba\Documents\Visual Studio 2010\Projects\ClassesJujuba\WindowsForm\obj\Debug\Componentes.frmBusca.resources
+C:\Users\Jujuba\Documents\Visual Studio 2010\Projects\ClassesJujuba\WindowsForm\obj\Debug\Componentes.frmCadastroJCS.resources
+C:\Users\Jujuba\Documents\Visual Studio 2010\Projects\ClassesJujuba\WindowsForm\obj\Debug\Componentes.csprojResolveAssemblyReference.cache
+C:\Users\Jujuba\Documents\Visual Studio 2010\Projects\ClassesJujuba\WindowsForm\obj\Debug\Componentes.Properties.Resources.resources
+C:\Users\Jujuba\Documents\Visual Studio 2010\Projects\ClassesJujuba\WindowsForm\bin\Debug\Componentes.dll
+C:\Users\Jujuba\Documents\Visual Studio 2010\Projects\ClassesJujuba\WindowsForm\bin\Debug\Componentes.pdb
+C:\Users\Jujuba\Documents\Visual Studio 2010\Projects\ClassesJujuba\WindowsForm\obj\Debug\Componentes.dll
+C:\Users\Jujuba\Documents\Visual Studio 2010\Projects\ClassesJujuba\WindowsForm\obj\Debug\Componentes.pdb
+C:\Users\Jujuba\Documents\Visual Studio 2010\Projects\ClassesJujuba\Componentes\bin\Debug\Componentes.dll
+C:\Users\Jujuba\Documents\Visual Studio 2010\Projects\ClassesJujuba\Componentes\bin\Debug\Componentes.pdb
+C:\Users\Jujuba\Documents\Visual Studio 2010\Projects\ClassesJujuba\Componentes\bin\Debug\dal.dll
+C:\Users\Jujuba\Documents\Visual Studio 2010\Projects\ClassesJujuba\Componentes\bin\Debug\Teste03.dll
+C:\Users\Jujuba\Documents\Visual Studio 2010\Projects\ClassesJujuba\Componentes\bin\Debug\dal.pdb
+C:\Users\Jujuba\Documents\Visual Studio 2010\Projects\ClassesJujuba\Componentes\bin\Debug\Teste03.pdb
+C:\Users\Jujuba\Documents\Visual Studio 2010\Projects\ClassesJujuba\Componentes\obj\Debug\Componentes.csprojResolveAssemblyReference.cache
+C:\Users\Jujuba\Documents\Visual Studio 2010\Projects\ClassesJujuba\Componentes\obj\Debug\Componentes.FormJCS.resources
+C:\Users\Jujuba\Documents\Visual Studio 2010\Projects\ClassesJujuba\Componentes\obj\Debug\Componentes.frmBusca.resources
+C:\Users\Jujuba\Documents\Visual Studio 2010\Projects\ClassesJujuba\Componentes\obj\Debug\Componentes.frmCadastroJCS.resources
+C:\Users\Jujuba\Documents\Visual Studio 2010\Projects\ClassesJujuba\Componentes\obj\Debug\Componentes.Properties.Resources.resources
+C:\Users\Jujuba\Documents\Visual Studio 2010\Projects\ClassesJujuba\Componentes\obj\Debug\Componentes.csproj.GenerateResource.Cache
+C:\Users\Jujuba\Documents\Visual Studio 2010\Projects\ClassesJujuba\Componentes\obj\Debug\Componentes.dll
+C:\Users\Jujuba\Documents\Visual Studio 2010\Projects\ClassesJujuba\Componentes\obj\Debug\Componentes.pdb
+C:\Users\Jujuba\Documents\Visual Studio 2010\Projects\ClassesJujuba\Componentes\obj\Debug\Componentes.frmInputBoxJCS.resources
+C:\Users\Jujuba\source\repos\ClassesJujuba\Componentes\obj\Debug\Componentes.csprojAssemblyReference.cache
+C:\Users\Jujuba\source\repos\ClassesJujuba\Componentes\obj\Debug\Componentes.FormJCS.resources
+C:\Users\Jujuba\source\repos\ClassesJujuba\Componentes\obj\Debug\Componentes.frmBusca.resources
+C:\Users\Jujuba\source\repos\ClassesJujuba\Componentes\obj\Debug\Componentes.frmCadastroJCS.resources
+C:\Users\Jujuba\source\repos\ClassesJujuba\Componentes\obj\Debug\Componentes.frmInputBoxJCS.resources
+C:\Users\Jujuba\source\repos\ClassesJujuba\Componentes\obj\Debug\Componentes.Properties.Resources.resources
+C:\Users\Jujuba\source\repos\ClassesJujuba\Componentes\obj\Debug\Componentes.csproj.GenerateResource.cache
+C:\Users\Jujuba\source\repos\ClassesJujuba\Componentes\obj\Debug\Componentes.csproj.CoreCompileInputs.cache
+C:\Users\Jujuba\source\repos\ClassesJujuba\Componentes\obj\Debug\Componentes.dll
+C:\Users\Jujuba\source\repos\ClassesJujuba\Componentes\obj\Debug\Componentes.pdb
+C:\Users\Jujuba\source\repos\ClassesJujuba\Componentes\bin\Debug\Componentes.dll
+C:\Users\Jujuba\source\repos\ClassesJujuba\Componentes\bin\Debug\Componentes.pdb
+C:\Users\Jujuba\source\repos\ClassesJujuba\Componentes\bin\Debug\dal.dll
+C:\Users\Jujuba\source\repos\ClassesJujuba\Componentes\bin\Debug\Teste03.dll
+C:\Users\Jujuba\source\repos\ClassesJujuba\Componentes\bin\Debug\dal.pdb
+C:\Users\Jujuba\source\repos\ClassesJujuba\Componentes\bin\Debug\Teste03.pdb
+C:\Users\Jujuba\source\repos\ClassesJujuba\Componentes\obj\Debug\Componentes.csproj.CopyComplete
+C:\Users\Jujuba\source\repos\ClassesJujuba\Componentes\bin\Debug\Npgsql.dll
+C:\Users\Jujuba\source\repos\ClassesJujuba\Componentes\bin\Debug\System.ValueTuple.dll
+C:\Users\Jujuba\source\repos\ClassesJujuba\Componentes\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Jujuba\source\repos\ClassesJujuba\Componentes\bin\Debug\System.Memory.dll
+C:\Users\Jujuba\source\repos\ClassesJujuba\Componentes\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jujuba\source\repos\ClassesJujuba\Componentes\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Jujuba\source\repos\ClassesJujuba\Componentes\bin\Debug\System.Buffers.dll
+C:\Users\Jujuba\source\repos\ClassesJujuba\Componentes\bin\Debug\Npgsql.pdb
+C:\Users\Jujuba\source\repos\ClassesJujuba\Componentes\bin\Debug\Npgsql.xml
+C:\Users\Jujuba\source\repos\ClassesJujuba\Componentes\bin\Debug\System.ValueTuple.xml
+C:\Users\Jujuba\source\repos\ClassesJujuba\Componentes\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Jujuba\source\repos\ClassesJujuba\Componentes\bin\Debug\System.Memory.xml
+C:\Users\Jujuba\source\repos\ClassesJujuba\Componentes\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jujuba\source\repos\ClassesJujuba\Componentes\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Jujuba\source\repos\ClassesJujuba\Componentes\bin\Debug\System.Buffers.xml
